@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "what in tarnation/1.0.0": {
+        "runtime": {
+          "what in tarnation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "what in tarnation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
